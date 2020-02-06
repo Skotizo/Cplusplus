@@ -1,0 +1,16 @@
+1. A(n) constructor is used in C++ to guarantee the initialization of
+a class instance.
+2. A constructor has the same name as the class itself.
+3. Member functions are sometimes called methods in other objectoriented languages.
+4. A(n) destructor is a member function that is automatically
+called to destroy an object.
+5. To access a particular member function, the code must list the object name
+and the name of the function separated from each other by a dot.
+6. A default constructor has no parameters.
+7. A tilde(~) precedes the destructor name in the declaration.
+8. A(n) inline member function has its implementation
+given in the class declaration.
+9. In an array of objects, if the default constructor is invoked, then it is applied
+to each object in the array.
+10. A constructor is a member function that is implicitly invoked
+whenever a class instance is created.

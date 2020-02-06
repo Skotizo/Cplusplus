@@ -1,0 +1,28 @@
+Please enter the annual income and tax rate for 5 tax payers:
+
+
+Enter this year's income for tax payer 1: 600000
+Enter the tax rate for tax payer # 1: .1
+
+Enter this year's income for tax payer 2: 333333
+Enter the tax rate for tax payer # 2: .22
+
+Enter this year's income for tax payer 3: 333
+Enter the tax rate for tax payer # 3: .77
+
+Enter this year's income for tax payer 4: 400
+Enter the tax rate for tax payer # 4: .1
+
+Enter this year's income for tax payer 5: 123
+Enter the tax rate for tax payer # 5: .123
+
+Taxes due for this year:
+
+Tax Payer # 1: $ 60000.00
+Tax Payer # 2: $ 73333.26
+Tax Payer # 3: $ 256.41
+Tax Payer # 4: $ 40.00
+Tax Payer # 5: $ 15.13
+
+Process returned 0 (0x0)   execution time : 20.147 s
+Press any key to continue.

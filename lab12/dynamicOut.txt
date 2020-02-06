@@ -1,0 +1,12 @@
+Enter your last name with exactly 10 characters.
+If your name has < 10 characters, repeat last letter.
+Blanks at the end do not count.
+abcdefghij
+Hi abcdefghij
+Enter three integer numbers separated by blanks
+10 20 30
+The three numbers are 10 20 30
+The sum of the three values is 60
+
+Process returned 0 (0x0)   execution time : 18.903 s
+Press any key to continue.

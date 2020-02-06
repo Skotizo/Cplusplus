@@ -1,0 +1,18 @@
+The radius of the circle is 2.00
+The center of the circle is (0,0)
+The area of the circle is 12.57
+The circumference of the circle is 12.57
+
+The radius of the circle is 1.00
+The center of the circle is (0,0)
+The area of the circle is 3.14
+The circumference of the circle is 6.28
+
+The radius of the circle is 1.00
+The center of the circle is (15,16)
+The area of the circle is 3.14
+The circumference of the circle is 6.28
+
+
+Process returned 0 (0x0)   execution time : 0.062 s
+Press any key to continue.

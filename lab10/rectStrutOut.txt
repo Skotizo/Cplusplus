@@ -1,0 +1,10 @@
+Enter the length of a rectangle: 6
+Enter the width of a rectangle: 6
+
+
+THATS NOT A RECTANGLE!!!
+The area of the rectangle is 36.00
+The perimeter of the rectangle is 24.00
+
+Process returned 0 (0x0)   execution time : 2.578 s
+Press any key to continue.

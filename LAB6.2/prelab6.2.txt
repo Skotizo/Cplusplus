@@ -1,0 +1,24 @@
+1. Variables of a function that retain their value over multiple calls to the
+function are called static variables.
+
+2. In C++ all functions have local scope.
+
+3. Default arguments are usually defined in the prototype of the function.
+
+4. A function returning a value should never use pass by reference parameters.
+
+5. Every function that begins with a data type in the heading, rather than the
+word void, must have a(n) return statement somewhere, usually
+at the end, in its body of instructions.
+
+6 A(n) driver is a program that tests a function by simply calling it.
+
+7. In C++ a block boundary is defined with a pair of {}.
+
+8. A(n)	stub is a dummy function that just indicates that a
+function was called properly.
+
+9. Default values are generally not given for pass by actual parameters.
+
+10. Overloaded functions are functions that have the same name but a
+different parameter list.

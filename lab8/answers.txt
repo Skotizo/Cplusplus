@@ -1,0 +1,23 @@
+7.1 
+EXERCISE 2
+Please input a grade from 1 to 100, (or -99 to stop)
+90
+45
+73
+62
+-99
+
+The average of all the grades is 67.5
+
+The highest grade is 90
+
+The Lowest grade is 45
+
+Process returned 0 (0x0)   execution time : 17.584 s
+Press any key to continue.
+7.3
+EXERCISE 2
+because the values are being read as well as written. The variables are not set will a value till after the terminiation of the function - not sure
+
+
+

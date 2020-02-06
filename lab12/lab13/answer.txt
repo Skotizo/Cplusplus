@@ -1,0 +1,26 @@
+case_converter.cpp exercise 2 : This handles both capitol and lowercase n & y\
+
+
+grades.cpp exercise 1 : The tenth character is being displayed which is not intened
+           exercise 2 : Newmanous
+
+
+concatination.cpp 
+
+Exercise 1
+Total Eclipse
+of the Sun
+concatination :    Total Eclipse of the Sun
+Total Eclipse of the Sun
+
+Process returned 0 (0x0)   execution time : 0.047 s
+Press any key to continue.
+
+Exercise 2
+Total Eclipse
+of the Sun
+concatination :    Total Eclipse of the Sun
+Total Eclipse of the Sun
+
+Process returned -1073741819 (0xC0000005)   execution time : 0.719 s // to be noted
+Press any key to continue.

@@ -1,0 +1,7 @@
+Total Eclipse
+of the Sun
+concatination :    Total Eclipse of the Sun
+Total Eclipse of the Sun
+
+Process returned -1073741819 (0xC0000005)   execution time : 1.398 s
+Press any key to continue.

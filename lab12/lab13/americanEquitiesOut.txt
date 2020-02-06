@@ -1,0 +1,8 @@
+[tr3218uu@ahscentos lab13]$ ./american_equites
+Enter a password consisting of exactly 6 letters and 4 digits:
+asdfGh1234
+Invalid password. Please enter a password with exactly 6 letters, 4 digits and 0 capitol letters
+For example, my37RuN9 is valid
+The number of letters inside your password:    6
+The number of digits inside your password:    4
+[tr3218uu@ahscentos lab13]$

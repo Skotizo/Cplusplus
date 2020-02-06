@@ -1,0 +1,15 @@
+Enter the following information
+Person's name: first
+Income :10000
+Rent:
+2000
+Food:
+2000
+Utilities:
+100
+misc:
+1
+Net income: 5899
+
+Process returned 0 (0x0)   execution time : 18.047 s
+Press any key to continue.

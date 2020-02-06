@@ -1,0 +1,9 @@
+78.90
+87.40
+60.80
+70.40
+75.60
+
+Process returned 0 (0x0)   execution time : 0.047 s
+Press any key to continue.
+

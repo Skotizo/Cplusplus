@@ -1,0 +1,16 @@
+How many ID's will be will be stored ? :  10
+Enter ID #1:   1
+Enter ID #2:   2
+Enter ID #3:   3
+Enter ID #4:   4
+Enter ID #5:   5
+Enter ID #6:   6
+Enter ID #7:   7
+Enter ID #8:   8
+Enter ID #9:   9
+Enter ID #10:   0
+Enter an ID# to find inside the list :  8
+The IDs was found inside the list under position : 8
+
+Process returned 1 (0x1)   execution time : 16.206 s
+Press any key to continue.

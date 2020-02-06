@@ -1,0 +1,9 @@
+Please input the length of the rectangle
+50
+Please input the width of the rectangle
+60
+The area is 110
+The width is greater than the length
+
+Process returned 0 (0x0)   execution time : 4.803 s
+Press any key to continue.

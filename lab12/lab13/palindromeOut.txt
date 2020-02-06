@@ -1,0 +1,10 @@
+Enter a string to test if it is a palindrome :     racecar
+word size: 7
+Your word is racecar
+r : r
+a : a
+c : c
+e : e
+racecar IS A PALINDROME!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Process returned 1 (0x1)   execution time : 5.487 s
+Press any key to continue.

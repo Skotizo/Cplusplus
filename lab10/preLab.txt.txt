@@ -1,0 +1,14 @@
+1. The name of a structure is called the tag.
+2. An advantage of structures over arrays is that structures allow one to use
+items of different data types, whereas arrays do not.
+3. One structure inside of another structure is an example of a nested structure.
+4. The variables declared inside the structure declaration are called the members
+of the structure.
+5. When initializing structure members, if one structure member is left
+uninitialized, then all the structure members that follow must be uninitialized.
+6. A user defined data type is often an abstract data type.
+7. Once an array of structures has been defined, you can access an array
+element using its index.
+8. The . allows the programmer to access structure members.
+9. You may not initialize a structure member in the defininition.
+10. Like variables, structure members may be used as function arguments.

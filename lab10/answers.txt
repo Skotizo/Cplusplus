@@ -1,0 +1,2 @@
+11.3
+Exercise 2: One adds 1 to show the amount inside the array. The index represents the position which start at 0.

@@ -1,0 +1,16 @@
+Adara Starr          has a(n) 94.00 average
+David Starr          has a(n) 91.00 average
+Sophia Starr         has a(n) 94.00 average
+Maria Starr          has a(n) 91.00 average
+Danielle DeFino      has a(n) 94.00 average
+Dominic DeFino       has a(n) 98.00 average
+McKenna DeFino       has a(n) 92.00 average
+Taylor McIntire      has a(n) 99.00 average
+Torrie McIntire      has a(n) 91.00 average
+Emily Garrett        has a(n) 97.00 average
+Lauren Garrett       has a(n) 92.00 average
+Marlene Starr        has a(n) 83.00 average
+Donald DeFino        has a(n) 73.00 average
+
+Process returned 0 (0x0)   execution time : 0.060 s
+Press any key to continue.

@@ -1,0 +1,11 @@
+How many monthly sales will be processed? 5
+Enter the sales below
+Sales for Month number  1:  100
+Sales for Month number  2:  200
+Sales for Month number  3:  300
+Sales for Month number  4:  400
+Sales for Month number  5:  500
+Average Monthly sale is $300.00
+
+Process returned 0 (0x0)   execution time : 12.705 s
+Press any key to continue.

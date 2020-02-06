@@ -1,0 +1,18 @@
+1. The * symbol is the dereferencing operator.
+2. The & symbol means “address of.”
+3. The name of an array, without any brackets, acts as a(n) pointer
+to the starting address of the array.
+4. An operator that allocates a dynamic variable is new .
+5. An operator that deallocates a dynamic variable is delete .
+6. Parameters that are passed by reference are similar to a pointer
+variable in that they can contain the address of another variable. They are
+used as parameters of a procedure (void function) whenever we want a
+procedure to change the value of the argument.
+Given the following information, fill the blanks with either “an address” or “3.75”.
+float * pointer;
+float pay = 3.75;
+pointer = &pay;
+7. cout << pointer; will print . an address
+8. cout << *pointer; will print . 3.75
+9. cout << &pay; will print . an address
+10. cout << pay; will print . 3.75

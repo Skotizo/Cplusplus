@@ -1,0 +1,9 @@
+Enter The Length Of The Square >  33
+
+The Area Of Your Square is 1089
+
+The Perimeter Of Your Square is 132
+
+The Area Of Square1 is 81
+
+The Perimeter Of Square1 is 36

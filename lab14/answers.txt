@@ -1,0 +1,16 @@
+files.cpp	
+	exercise 4 
+Payrate Hours   Gross Pay       Net Pay
+
+15.00          40.00      600.00      498.00
+10.00          50.00      500.00      420.00
+12.50          60.00      750.00      615.00
+
+Process returned 0 (0x0)   execution time : 0.058 s
+
+grades.cpp
+	exercise 1 : because it would not fit inside they char array named name.
+	exercise 
+
+randomAccess.cpp
+	Exercise 2: because it goes out of bounds. Creat larger array that cin's length.

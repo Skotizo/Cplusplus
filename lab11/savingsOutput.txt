@@ -1,0 +1,36 @@
+Please input the initial dollars
+402
+Please input the initial cents
+78
+Would you like to make a deposit? Y or y for yes
+y
+Please input the dollars to be deposited
+35
+Please input the cents to be deposited
+67
+Would you like to make another deposit? Y or y for yes
+y
+Please input the dollars to be deposited
+35
+Please input the cents to be deposited
+67
+Would you like to make another deposit? Y or y for yes
+n
+Would you like to make a withdrawal? Y or y for yes
+y
+Please input the dollars to be withdrawn
+28
+Please input the cents to be withdrawn
+08
+Would you like to make another withdrawal? Y or y for yes
+y
+Please input the dollars to be withdrawn
+75
+Please input the cents to be withdrawn
+78
+Would you like to make another withdrawal? Y or y for yes
+n
+Final Balance $297.92
+
+Process returned 0 (0x0)   execution time : 54.438 s
+Press any key to continue.

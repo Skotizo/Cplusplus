@@ -1,0 +1,13 @@
+
+1. The seekg member function moves the read position of a file.
+2. Files that will be used for both input and output should be defined as fstream data type.
+3. The  member function returns the write position of a file.
+4. The ios::app file access flag indicates that output to the file will
+be written to the end of the file.
+5. binary files are files that do not store data as ASCII characters.
+6. The seekp member function moves the write position of a file.
+7. The write function can be used to send an entire record or array to a binary file with one statement.
+8. The >> operator removes any leading whitespace.
+9. The peek function “looks ahead” to determine the next data value in an input file.
+10. The get and	getline functions do not skip leading
+whitespace characters.

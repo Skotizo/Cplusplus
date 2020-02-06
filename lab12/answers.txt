@@ -1,0 +1,24 @@
+pointers.cpp
+	Exercise 2 : 
+		Please input the length of the rectangle
+		10
+		Please input the width of the rectangle
+		15
+		The area is 25
+		The width is greater than the length
+		Process returned 0 (0x0)   execution time : 9.406 s
+		Press any key to continue.
+
+dynamic.cpp
+	Exercise 2 : It would not make sense to have the pointer but still adress the array by the name. They both functionally work the same. 
+
+darray.cpp
+	Exercise 1 :
+		How many monthly sales will be processed? 3
+		Enter the sales below
+		Sales for Month number  1:  401.25
+		Sales for Month number  2:  352.89
+		Sales for Month number  3:  375.05
+		Average Monthly sale is $376.40
+		Process returned 0 (0x0)   execution time : 25.905 s
+		Press any key to continue.

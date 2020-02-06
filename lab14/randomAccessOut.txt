@@ -1,0 +1,14 @@
+Position : 0
+Enter an offset from the current read position: 15
+The character read is e
+If you would like to input another offset enter a Y
+Y
+Position : 15
+Enter an offset from the current read position: 1
+The character read is N
+If you would like to input another offset enter a Y
+Y
+Position : 1
+Enter an offset from the current read position: 2
+The character read is o
+If you would like to input another offset enter a Y

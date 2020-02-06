@@ -1,0 +1,16 @@
+How much (to the nearest dollar) did you spend on food during week 1 ?:
+30
+How much (to the nearest dollar) did you spend on food during week 2 ?:
+20
+How much (to the nearest dollar) did you spend on food during week 3 ?:
+40
+How much (to the nearest dollar) did you spend on food during week 4 ?:
+22
+Your weekly food bill over the chosen month is $28.00
+
+Would you like to find the average for another month?
+Enter Y or N
+n
+
+Process returned 0 (0x0)   execution time : 11.447 s
+Press any key to continue.

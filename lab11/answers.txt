@@ -1,0 +1,4 @@
+circles
+	Exercise 1: The center is still set to 9,10 because the sphere object is initialized before, which changes 0,0 -> 9,10
+floatArray
+	Exercise 1: The parameter passed in will not be changed. 
