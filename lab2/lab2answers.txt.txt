@@ -1,0 +1,43 @@
+1. A constant is a memory location whose value cannot change
+during the execution of the program.
+
+2. Int is a data type that only holds numbers with no fractional
+component.
+
+3. Float/double is a data type that holds numbers with fractional
+components.
+
+4. % is an arithmetic operator that gives the remainder of a
+division problem.
+
+5. cout << is an example of the output statement fundamental instruction.
+
+6. Boolean data types only have two values: true and false.
+
+7. One byte consists of 8 bits.
+
+8. // or /* in C++ indicates the start of a comment .
+
+9. A variable is a memory location whose value can change during
+the execution of the program.
+
+10. A string can hold a sequence of characters such as a name.
+
+
+EXERCISE 2.2
+Change the data type of circumference from float to int. Run the
+program and record the results.
+The circumference of the circle is 33.
+The area of the circle is 391.5624.
+Explain what happened to get the above results.
+Since I had changed the circumference's variable type, it no longer held any numbers after the decimal point. This removed all fractions from the number 33.
+
+
+EXECISE 2.4
+
+Exercise 3: Is it possible to change the choice of FAVORITESODA by adding
+code within the main module of the program? Why or why not?
+Its is not because FAVORITESODA is a constant. The memory space cannot be modified after execution.
+Exercise 4: Is it possible to change the choice of favoriteSnack by adding code
+within the program? Why or why not?
+it can because the variable mutable. It can take on many different value throughout the program as long as not specified as a constant.

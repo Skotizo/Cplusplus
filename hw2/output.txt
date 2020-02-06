@@ -1,0 +1,59 @@
+Enter The Value of a:
+1
+
+Enter The Value of b:
+2
+
+Enter The Value of c:
+1
+
+The two roots are the same
+The first root is -1
+The second root is -1
+
+Process returned 0 (0x0)   execution time : 9.788 s
+Press any key to continue.
+
+Enter The Value of a:
+2
+
+Enter The Value of b:
+4
+
+Enter The Value of c:
+-6
+
+The first root is 1
+The second root is -3
+
+Process returned 0 (0x0)   execution time : 6.431 s
+Press any key to continue.
+
+Enter The Value of a:
+0
+
+Enter The Value of b:
+2
+
+Enter The Value of c:
+2
+
+Theres a single root
+The root is -1
+
+Process returned 0 (0x0)   execution time : 2.409 s
+Press any key to continue.
+
+Enter The Value of a:
+0
+
+Enter The Value of b:
+0
+
+Enter The Value of c:
+0
+
+There is no solution
+
+Process returned 0 (0x0)   execution time : 11.950 s
+Press any key to continue.

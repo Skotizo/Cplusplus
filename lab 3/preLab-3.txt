@@ -1,0 +1,26 @@
+1. What is the final value (in C++) of the following		2
+ expression? (5 - 16 / 2 * 3 + (3 + 2 / 2) - 5)
+
+2. How would the following expression be written 		2 * x + 3
+   in C++? 2x + 3 			
+
+
+3. Implicit conversion is also known as data type .		Coercion 
+
+4. Explicit type conversion is also known as type .		Casting
+
+5. List the preprocessor directive that must be			iostream			
+   included for cin and cout to be used in a C++ 
+   program.
+
+6. Blank spaces or unseen control characters in 		Whitespace
+   a data file are referred to as.	
+
+7. The << in a cout statement is called the operator.		insertion operator
+
+
+8. The #include< > is needed for formatted output.		iomanip
+
+
+9. The '\n' is a special character that .			skips to next line 
+

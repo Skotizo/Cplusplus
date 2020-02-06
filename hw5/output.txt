@@ -1,0 +1,46 @@
+Enter 1 for rock
+Enter 2 for paper
+Enter 3 for scissors
+Enter 4 for lizzard
+Enter 5 for spock
+
+Enter 99 to exit
+
+Enter a number between 1 and 5 >1
+
+
+Rock beats scissors. You Win
+user wins:1       computer wins:0
+
+Enter a number between 1 and 5 >2
+
+
+Paper beats rock. You Win
+user wins:2       computer wins:0
+
+Enter a number between 1 and 5 >3
+
+
+Scissors beats lizard. You Win
+user wins:3       computer wins:0
+
+Enter a number between 1 and 5 >4
+
+
+Rock beats lizard. You Lose
+user wins:3       computer wins:1
+
+Enter a number between 1 and 5 >5
+
+
+Spock beats rock. You Win
+user wins:4       computer wins:1
+
+Enter a number between 1 and 5 >99
+
+
+user wins:4       computer wins:1
+
+
+Process returned 0 (0x0)   execution time : 10.094 s
+Press any key to continue.

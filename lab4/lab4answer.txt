@@ -1,0 +1,12 @@
+4.1
+    Exercise 1: No it is not the output I expected. The num 1 is always being asigned the value 5. This is because the if statement is assigning the value of five. The error is fixed by changing = to ==.
+4.2
+    Exercise 1: It prints nothing and the app ends.
+    Exercise 3: nothing happends because no conditional covers -12
+4.3
+    Exercise 1: if (!(gpa<2.0) &&  year == '4')
+    Exercise 2: yes because gpa > 4 fails and gpa < 5 fails.
+    Exercise 3: students with an equal or above 2.0 gpa or year 4 students. Also students without four years and a above 2.0 gpa.
+    Exercise 4: No
+4.4
+    Exercise 1: Instead of the program displaying 1 case, all of the cases execute.

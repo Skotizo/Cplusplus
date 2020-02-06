@@ -1,0 +1,4 @@
+What do you think the fixed attribute in the cout statement does?       Formats all numbers displayed via cout instead of a singular one
+What do you think the setprecision() attribute in the cout does?        Sets the number of decimal places after the zero to remain
+The batting average is 0
+The batting average is 0

@@ -1,0 +1,18 @@
+Michael Steele
+tr3218uu
+lab 1
+1-23-19
+
+
+
+
+
+
+1. compilers detect syntax errors.
+2. Usually the most difficult errors to correct are the logic errors,
+since they are not detected in the compilation process.
+3. Attaching other pre-written routines to your program is done by the
+linking process.
+4. binary code is the machine code consisting of ones and zeroes
+that is read by the computer.
+5. Dividing by zero is an example of a run time error.

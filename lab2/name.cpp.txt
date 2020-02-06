@@ -1,0 +1,21 @@
+// This program will write the name, address and telephone
+// number of the programmer.
+
+// Michael Steele
+#include <iostream>
+using namespace std;
+
+int main()
+{
+        cout << "\n\n" << endl;
+        cout << "Programmer: Deano Deano" << endl;
+        cout << "            123 Markadella Lane" << endl;
+        cout << "            Fruitland, Md. 55555\n\n" << endl;
+        cout << "Telephone:  763-666-6666" << endl;
+
+        //Fill in this space to write your address (on new line)
+        // Fill in this space to write you city, state and zip (on new line)
+        // Fill in this space to write your telephone number (on new line)
+
+        return 0;
+}

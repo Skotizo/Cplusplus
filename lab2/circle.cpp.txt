@@ -1,0 +1,32 @@
+// This program will output the circumference and area
+// of the circle with a given radius.
+
+// Michael Steele
+
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+const double PI = 3.14;
+const double RADIUS = 5.4;
+
+int main()
+{
+        float area;                                                           
+
+        int circumference;                            
+        circumference = 2 * PI * RADIUS;       
+        area = PI * pow(RADIUS,2.0);                                            
+
+        // Fill in the code for the cout statement that will output (with description)
+        // the circumference
+        cout << "\nThe circumference is : " << circumference;
+
+        // Fill in the code for the cout statement that will output (with description)
+        // the area of the circle
+        cout << "\nThe area is : " << area;
+
+        return 0;
+
+
+}
