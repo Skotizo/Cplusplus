@@ -1,0 +1,9 @@
+Month:   4
+Day:   12
+Year:   2000
+First:   Michael
+Last:   Steele
+Author:    Michael Steele
+
+Process returned 0 (0x0)   execution time : 0.063 s
+Press any key to continue.
