@@ -1,0 +1,58 @@
+batch1.bat 
+
+@echo off
+cls
+dir
+pause
+cls
+echo My birth month is October.
+echo:
+echo My favorite color is blue.
+echo:
+echo My favorite food is steak.
+echo:
+pause 
+cls
+
+menu.bat
+
+@echo off
+cls
+
+echo " 		|----------------------menu----------------------|		"
+echo "		|1) Settup the dos prompt			 |		"
+echo "		|2) Display the current path			 |		"
+echo "		|3) Display the operating systems current version|		"
+echo "          	|------------------------------------------------|		"
+echo "			TYPE A NUMBER TO MAKE A SELECTION			"
+pause
+
+1.bat
+
+@echo off 
+prompt $T $S $N $G
+pause 
+
+2.bat
+
+@echo off
+dir
+pause
+
+3.bat
+
+@echo off
+ver
+pause
+
+display.bat
+
+@echo off
+if not exist %1 goto doesnt
+echo %1 does exits
+pause
+exit
+:doesnt
+echo %1 does not exist
+pause 
+exit
